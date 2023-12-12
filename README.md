@@ -48,6 +48,9 @@ Fruit Catcher is a fun and casual game developed using Love2D in Lua. The goal i
 2. Ensure you have Love2D installed on your system.
 3. Run the game by executing the command: `love path/to/fruit-catcher`.
 
+**Controls:**
+- Use the left and right arrow keys to move the basket.
+
 ## Installation
 
 Ensure you have Love2D installed on your machine. You can download it from [Love2D website](https://love2d.org/).
