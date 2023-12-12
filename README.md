@@ -2,6 +2,8 @@
 
 Welcome to Fruit Catcher, a simple and entertaining game where you control a basket to catch falling fruits before they reach the ground. The game features a lifebar that gradually depletes over time, and catching fruits not only earns you points but also refills the lifebar to keep the game going.
 
+![Gameplay Image](path/to/gameplay-screenshot.png)
+
 ## Table of Contents
 
 - [Game Overview](#game-overview)
