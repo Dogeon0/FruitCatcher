@@ -32,6 +32,7 @@ Fruit Catcher is a fun and casual game developed using Love2D in Lua. The goal i
 ## Controls
 
 - Use the left and right arrow keys to move the basket.
+  
 ![image3 Image](graphics/screenshots/gameplay.gif)
 
 ## Scoring
